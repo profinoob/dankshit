@@ -13,3 +13,10 @@ You can add custom sounds by following these steps:
 
 4. Add your sound to the created folder. (Note that it has to be named the same as the original sound and has to be an `.ogg` file)
 
+# Tags and usage
+
+Don't forget to create a tag/release of this project after adding anything to this repository.
+
+After creating a tag/release you can download the automatically generated `dankshit.zip` and add it to your resourcepacks to use it ingame.
+
+
